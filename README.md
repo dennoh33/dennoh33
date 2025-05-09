@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dennoh33
-- 👀 I’m interested in coding softwares
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on various web development projects
 - 📫 How to reach me is via my phone number : +254113183299 or email 1dennoh4@gmail.com
 
